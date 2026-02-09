@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/srsrssrsbot. The GitHub repository may be deleted in the future.
+
+---
+
 # srsrssrsbot
 
 A **s**e**r**iou**s rss r**u**s**t **bot**. No apologies with respect to the name.
